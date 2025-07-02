@@ -20,8 +20,6 @@ Tools & Technologies
 - Ubuntu 
 
 Submission Info
-- Course: CS-204 Software Engineering
-- Instructor: [Instructor's Name, optional]
 - Semester: Spring 2025
 - Institution: HITEC University
 ---
