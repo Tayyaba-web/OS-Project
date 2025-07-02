@@ -8,7 +8,7 @@ The project demonstrates key concepts of Operating Systems using code implementa
 
 Team Members
 - Tayyaba
-- Hafsa
+- Sana
 
 Repository Structure
 - main – Stable version of the project
